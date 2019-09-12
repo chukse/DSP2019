@@ -8,7 +8,7 @@
 
 * B:  Yes
 
-**5** Fortran 
+**5:** Fortran 
 
 * B: 4 decades old
 
@@ -16,12 +16,14 @@
 
 
 
-**7** 80s C, 80s C++, 90s for python and Matlab 
+**7:** 80s C, 80s C++, 90s for python and Matlab 
 
-**8** Python
+**8:** Python
 
-**9** Internet C++
+**9:** Internet C++
+
+**10:** Wolfram 
 
 
 
-**11** Taking the log of both axis and powerlog behavior is linear 
+**11:** Taking the log of both axis and powerlog behavior is linear 
