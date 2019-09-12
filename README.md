@@ -8,13 +8,12 @@
 **Position Title:** Student <br />
 **Course Webpage:** https://www.cdslab.org/DSP2019F/ <br />
 **Photo:**
-![](mypic.jpg)
-
+![](/images/mypic.jpg)
 
 ## Description of the project's content:
 This repository contains my homework, quizzes, and virtually every effort that I have made for PHYS5391. The structure of the project is the following:
 
-* homework: (the homework hyperlink should take the reader to the homework folder)
+* [homework](https://github.com/chukse/DSP2019/tree/master/homework) 
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
 * quiz: (the quiz hyperlink should take the reader to the quizzes folder)
