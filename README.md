@@ -7,8 +7,8 @@
 **Level:** undergraduate - Dinosaur (5th year and above) <br />
 **Position Title:** Student <br />
 **Course Webpage:** https://www.cdslab.org/DSP2019F/ <br />
-**Photo:**
-![](https://mail.google.com/mail/u/0/ui=2&view=btop&ver=1nj101dboqm98#attid%253Datt_16d23926549a4e29_0.1_6ff8c2c0_e8977eeb_d04f3488_b1ae9676_a0041e5d%25252FIMG_0436.JPG)
+**Photo:** <br />
+![](https://github.com/chukse/DSP2019/blob/master/mypic.JPG)
 
 ## Description of the project's content:
 This repository contains my homework, quizzes, and virtually every effort that I have made for PHYS5391. The structure of the project is the following:
