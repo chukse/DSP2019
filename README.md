@@ -8,7 +8,7 @@
 **Position Title:** Student <br />
 **Course Webpage:** https://www.cdslab.org/DSP2019F/ <br />
 **Photo:**
-![](/images/mypic.jpg)
+![](C:/Users/HP Owner/Downloads/mypic.jpg)
 
 ## Description of the project's content:
 This repository contains my homework, quizzes, and virtually every effort that I have made for PHYS5391. The structure of the project is the following:
