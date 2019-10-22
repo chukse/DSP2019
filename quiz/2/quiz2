@@ -1,0 +1,47 @@
+
+
+```python
+"""
+
+1. This if block allows looks for main name to be set as main, therefore the code that is in main will be executed.
+
+2A. from myModule import myfunc
+2B. It  will print all the functions of that module
+
+3. summ = [even[0]+odd[0],even[1]+odd[1], even[2]+odd[2], even[3] +odd[3], even[4] +odd[4]]
+
+4. It performs 10 iterations as it going from 0 to 10, skipping 1 element in the list and it will not go to 10 and since it 
+   will append each odd number, then it will run until there are no more elements in the loop, which will be 10 times.
+
+5. def getSum(n):
+		if n> 0:
+            for i in n:
+                result += getSum(i)
+		
+        return result 
+
+
+        
+"""
+```
+
+
+
+
+    '\n\n1. This if block allows looks for main name to be set as main, therefore the code that is in main will be executed.\n\n2A. from myModule import myfunc\n2B. It  will print all the functions of that module\n\n3. summ = [even[0]+odd[0],even[1]+odd[1], even[2]+odd[2], even[3] +odd[3], even[4] +odd[4]]\n\n4. It performs 5 iterations as it going from 2 to 10, skipping 1 element in the list.\n\n5. def getSum(n):\n\t\tfor i in n:\n\t\t\tresult += getSum(i)\n\t\t\n\t\treturn result \n\n\n        \n'
+
+
+
+
+```python
+mylist = list(range(0,10,2))
+print(mylist)
+```
+
+    [0, 2, 4, 6, 8]
+    
+
+
+```python
+
+```
