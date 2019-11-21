@@ -1,0 +1,52 @@
+
+
+```python
+import numpy.random as rnd
+import math as m
+
+in_curve = 0
+nsim = 10000
+b = 20
+h = .5
+area_of_square = 10
+
+def area_of_curve(x):
+    return (1/(1*m.sqrt(2*pi))*np.exp(-((x-(-2))**2)/(2*1**2))+(1/(2*m.sqrt(2*pi)))*np.exp(-((x-2)**2) /2*(2**2))
+                                                                                           
+
+
+
+for i in range(nsim):
+    
+    x_square = rnd.random()*10
+            
+    y_square = rnd.random()*10
+            
+    x = rnd.random()
+                                                                                          
+    rectangle_area = b * h 
+                                                                                          
+    y = area_of_curve_(x)
+            
+    if area_of_curve < rectangle_area:
+        
+        in_curve += 1
+
+
+area = (float(in_curve) / nsim) * 4
+
+print(area)
+```
+
+
+      File "<ipython-input-24-c74d43128ac1>", line 16
+        for i in range(nsim):
+                            ^
+    SyntaxError: invalid syntax
+    
+
+
+
+```python
+
+```
