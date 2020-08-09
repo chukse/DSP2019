@@ -4,7 +4,7 @@
 **Email:** chukwuka.egbuchunam@mavs.uta.edu <br />
 **Department:** Department of Computer Science and Engineering <br />
 **University:** The University of Texas at Arlington <br />
-**Level:** undergraduate - Dinosaur (5th year and above) <br />
+**Level:** undergraduate<br />
 **Position Title:** Student <br />
 **Course Webpage:** https://www.cdslab.org/DSP2019F/ <br />
 **Photo:** <br />
